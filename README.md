@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-# This is a small project in which, me learn the following Javascript methods.
+# This is a small project in which, we learn the following Javascript methods.
 1. getElementById()
 2. querySelectorAll()
 3. forEach()
